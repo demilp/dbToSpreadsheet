@@ -8,3 +8,4 @@ C:\Users\Demian\Documents\Visual Studio 2015\Projects\SQLExecutor\SQLExecuter\ob
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\SQLExecutor\SQLExecuter\obj\Release\SqlExecutor.csproj.GenerateResource.Cache
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\SQLExecutor\SQLExecuter\obj\Release\SQLExecutor.exe
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\SQLExecutor\SQLExecuter\obj\Release\SQLExecutor.pdb
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\SQLExecutor\SQLExecuter\obj\Release\SqlExecutor.csprojResolveAssemblyReference.cache

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SqlExecutor));
             this.queryTb = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.executeBtn = new System.Windows.Forms.Button();
@@ -136,7 +137,7 @@
             this.resultLabel.Size = new System.Drawing.Size(0, 13);
             this.resultLabel.TabIndex = 9;
             // 
-            // SqlExecuter
+            // SqlExecutor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -151,7 +152,8 @@
             this.Controls.Add(this.executeBtn);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.queryTb);
-            this.Name = "SqlExecuter";
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "SqlExecutor";
             this.Text = "SQLExecuter";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.SqlExecuter_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.grid)).EndInit();
