@@ -1,0 +1,8 @@
+C:\Users\Demian\documents\visual studio 2015\Projects\SQLtoExcel\SQLtoExcel\bin\Debug\SQLtoExcel.exe.config
+C:\Users\Demian\documents\visual studio 2015\Projects\SQLtoExcel\SQLtoExcel\bin\Debug\SQLtoExcel.exe
+C:\Users\Demian\documents\visual studio 2015\Projects\SQLtoExcel\SQLtoExcel\bin\Debug\SQLtoExcel.pdb
+C:\Users\Demian\documents\visual studio 2015\Projects\SQLtoExcel\SQLtoExcel\obj\Debug\SQLtoExcel.csprojResolveAssemblyReference.cache
+C:\Users\Demian\documents\visual studio 2015\Projects\SQLtoExcel\SQLtoExcel\obj\Debug\SQLtoExcel.exe
+C:\Users\Demian\documents\visual studio 2015\Projects\SQLtoExcel\SQLtoExcel\obj\Debug\SQLtoExcel.pdb
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\SQLtoExcel\SQLtoExcel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\SQLtoExcel\SQLtoExcel\bin\Debug\DocumentFormat.OpenXml.xml
